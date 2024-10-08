@@ -1,8 +1,8 @@
 # orgLink
 
-## Description
-
 orgLink is a Chrome extension designed to provide easy access to frequently used web resources. It allows organization to maintain and deploy an extension listing important links, allowing users to quickly access information about each resource.
+
+![screenshot](https://github.com/Joshua-Wise/orgLink/blob/main/orgLink_Screenshot.png?raw=true)
 
 ## Features
 
