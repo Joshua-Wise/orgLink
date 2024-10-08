@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Company Homepage",
+      "url": "https://www.company.com",
+      "tooltip": "Your company's homepage"
+    },
+    {
+      "id": 2,
+      "title": "Employee Portal",
+      "url": "https://portal.company.com",
+      "tooltip": "Your company's employee portal"
+    },
+    {
+      "id": 3,
+      "title": "HR Resources",
+      "url": "https://hr.company.com",
+      "tooltip": "Your company's HR resources"
+    },
+    {
+      "id": 4,
+      "title": "IT Support",
+      "url": "https://it.company.com",
+      "tooltip": "Your company's IT support"
+    },
+    {
+      "id": 5,
+      "title": "Company Wiki",
+      "url": "https://wiki.company.com",
+      "tooltip": "Your company's wiki"
+    }
+  ]
